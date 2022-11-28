@@ -1,0 +1,58 @@
+Aula 03 - Operadores artiméticos
+
+Operadores Aritméticos utilizados em portugol no visualg:
++ mais
+- menos
+* multiplicação
+/ divisão
+*contrabarra* divisao inteira (nao arredonda, apenas corta a parte decimal)
+^ exponenciação
+% modulo (da divisão, ou resto)
+
+Ordem de precedência é a clássica de outras linguagens:
+(
+^
+* e /
++ e -
+
+As variaveis podem ser:
+Inteiro
+Real
+Caractere
+Logico
+
+Algumas funcoes aritmeticas suportadas pelo visualg:
+
+Abs: valor absoluto (o modulo da matematica)
+Exp: exponenciação (Exp(3,2) = 9)
+Int: valor inteiro (ex.: int(3.9))
+RaizQ: raiz quadrada
+Pi: retorna pi
+Sen: seno(rad)
+Cos: cosseno(rad)
+Tan: tangente(rad)
+GraupRad: graus para radiano
+
+obs.: o visualg trabalha apenas com radianos em ângulos, daí vem a necessidade de transformação
+
+Aula 04 - Operadores Relacionais e Lógicos
+
+Operadores relacionais: criam relações entre expressões, como >, <, >=, <=, =, <> (diferente de)
+
+Operadores lógicos: comparam resultaods lógicos. 
+Podem ser:
+E - n premissas verdadeiras
+OU - ao menos uma premissa verdadeira
+Não
+
+Ordem de precedência definitiva:
+1: aritmeticos
+2: relacionais
+3: logicos
+
+para formatar um real em portugol utiliza-se x:j:k, tal que x é a variável, j é o número de casas que serão lidas e k é o número de casas lidas após a vírgula (no caso, após o .)
+
+Parei na aula 7, já fiz todos os exercicios anteriores
+
+
+
