@@ -54,5 +54,16 @@ para formatar um real em portugol utiliza-se x:j:k, tal que x é a variável, j 
 
 Parei na aula 7, já fiz todos os exercicios anteriores
 
+Aula 7 era aula sobre operadores condicionais Se (x) entao, usa-se FimSe. 
+
+Escolha x
+  caso y
+    abcd
+  OutroCaso
+    hijk
+FimEscolha
+
+
+
 
 
