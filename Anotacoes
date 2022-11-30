@@ -65,5 +65,12 @@ FimEscolha
 
 
 
+Estruturas de repetição
+
+Enquanto (expressao) faca
+  bloco
+FimEnquanto
+
+
 
 
